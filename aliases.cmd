@@ -1,3 +1,5 @@
+:: To run on cmd start ups, follow instructions from https://superuser.com/a/916478
+
 @echo off
 
 DOSKEY gpm=git push --set-upstream origin master
